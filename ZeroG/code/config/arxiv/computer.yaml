@@ -1,0 +1,4 @@
+# gpu: 0
+graph_prompt_lr: 0.1
+text_prompt_lr: 0.0001
+tta_step: 3
